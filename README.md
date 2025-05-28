@@ -1,41 +1,102 @@
 # PRANAAM
-📋 Table of Contents
-🤖 Introduction
-⚙️ Tech Stack
-🔋 Features
-🤖 Introduction
-Explore social media with this user-friendly platform that has a nice look and lots of features. Easily create and explore posts, and enjoy a strong authentication system and quick data fetching using React Query for a smooth user experience.
+# 📱 Social Media Platform
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
+A user-friendly social media platform built with modern web technologies. Create, explore, and interact with posts effortlessly. Featuring robust authentication, responsive UI, and fast data fetching.
 
-⚙️ Tech Stack
-React.js
-Appwrite
-React Query
-TypeScript
-Shadcn
-Tailwind CSS
-🔋 Features
-👉 Authentication System: A robust authentication system ensuring security and user privacy
+---
 
-👉 Explore Page: Homepage for users to explore posts, with a featured section for top creators
+## 📋 Table of Contents
 
-👉 Like and Save Functionality: Enable users to like and save posts, with dedicated pages for managing liked and saved content
+- [🤖 Introduction](#-introduction)
+- [⚙️ Tech Stack](#-tech-stack)
+- [🔋 Features](#-features)
+- [🧑‍🤝‍🧑 Community Support](#-community-support)
 
-👉 Detailed Post Page: A detailed post page displaying content and related posts for an immersive user experience
+---
 
-👉 Profile Page: A user profile page showcasing liked posts and providing options to edit the profile
+## 🤖 Introduction
 
-👉 Browse Other Users: Allow users to browse and explore other users' profiles and posts
+Explore social media with this platform that offers:
 
-👉 Create Post Page: Implement a user-friendly create post page with effortless file management, storage, and drag-drop feature
+- A clean and intuitive design
+- Feature-rich experience
+- Seamless post creation and discovery
+- Strong authentication system
+- Fast data fetching using **React Query**
 
-👉 Edit Post Functionality: Provide users with the ability to edit the content of their posts at any time
+Need assistance or found a bug?  
+Join our active **Discord community** with **27k+ members** helping each other grow!
 
-👉 Responsive UI with Bottom Bar: A responsive UI with a bottom bar, enhancing the mobile app feel for seamless navigation
+---
 
-👉 React Query Integration: Incorporate the React Query (Tanstack Query) data fetching library for, Auto caching to enhance performance, Parallel queries for efficient data retrieval, First-class Mutations, etc
+## ⚙️ Tech Stack
 
-👉 Backend as a Service (BaaS) - Appwrite: Utilize Appwrite as a Backend as a Service solution for streamlined backend development, offering features like authentication, database, file storage, and more
+- **React.js**
+- **TypeScript**
+- **Appwrite (BaaS)**
+- **React Query (TanStack Query)**
+- **Shadcn UI**
+- **Tailwind CSS**
 
-and many more, including code architecture and reusability
+---
+
+## 🔋 Features
+
+### 🔐 Authentication System
+Secure and private user authentication for sign-up and login.
+
+### 🏠 Explore Page
+Discover posts with a featured section for **top creators**.
+
+### ❤️ Like and Save Functionality
+- Like and save posts  
+- Access dedicated pages to manage them
+
+### 📄 Detailed Post Page
+- View full content of each post  
+- Explore related posts
+
+### 👤 Profile Page
+- Showcase liked posts  
+- Edit profile information
+
+### 🔍 Browse Other Users
+- View other users’ profiles  
+- Explore their posts
+
+### ➕ Create Post Page
+- Drag & drop file upload  
+- Smooth media handling  
+- Easy post creation
+
+### ✏️ Edit Post Functionality
+- Edit your own posts anytime
+
+### 📱 Responsive UI with Bottom Bar
+- Mobile-friendly layout  
+- Bottom navigation for an app-like experience
+
+### ⚡ React Query Integration
+- Auto caching  
+- Parallel queries  
+- First-class mutations  
+- Improves performance and data handling
+
+### 🧩 Backend as a Service (Appwrite)
+- Authentication  
+- Database  
+- File storage  
+- Streamlined backend development
+
+---
+
+## 🧑‍🤝‍🧑 Community Support
+
+Join our [Discord Server](#) (27k+ members) to:
+- Get help with bugs
+- Collaborate with developers
+- Stay updated with platform news
+
+---
+
+> ✅ _Built with scalability, clean code architecture, and reusability in mind._
