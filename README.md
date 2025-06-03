@@ -1,4 +1,4 @@
-# 🌐 PRANAAM - A Feature-Rich Social Media Platform
+# 🌐 PRANAAM
 
 Welcome to **PRANAAM**, a user-friendly social media platform built with a modern tech stack. Enjoy creating and exploring posts with a sleek UI, robust authentication, and fast performance powered by React Query and Appwrite.
 
@@ -9,7 +9,6 @@ Welcome to **PRANAAM**, a user-friendly social media platform built with a moder
 - [🤖 Introduction](#-introduction)  
 - [⚙️ Tech Stack](#-tech-stack)  
 - [🔋 Features](#-features)  
-- [📬 Community Support](#-community-support)
 
 ---
 
@@ -37,36 +36,25 @@ Whether you're sharing content or discovering others, PRANAAM offers:
 
 ## 🔋 Features
 
-### 🔐 Authentication System
-A secure and robust system ensuring privacy and user data protection.
+👉 Authentication System: A robust authentication system ensuring security and user privacy
 
-### 🧭 Explore Page
-Homepage where users can browse all posts, including a featured section highlighting top creators.
+👉 Explore Page: Homepage for users to explore posts, with a featured section for top creators
 
-### ❤️ Like & Save Functionality
-Users can like and save posts with dedicated pages for managing liked and saved content.
+👉 Like and Save Functionality: Enable users to like and save posts, with dedicated pages for managing liked and saved content
 
-### 📄 Detailed Post Page
-View post content in detail along with related posts to keep users engaged.
+👉 Detailed Post Page: A detailed post page displaying content and related posts for an immersive user experience
 
-### 🙍‍♂️ Profile Page
-User profile includes liked posts and profile editing options.
+👉 Profile Page: A user profile page showcasing liked posts and providing options to edit the profile
 
-### 🔎 Browse Other Users
-Discover and explore other users’ profiles and their shared posts.
+👉 Browse Other Users: Allow users to browse and explore other users' profiles and posts
 
-### ✍️ Create Post Page
-A smooth drag-and-drop experience for file uploads with efficient post creation.
+👉 Create Post Page: Implement a user-friendly create post page with effortless file management, storage, and drag-drop feature
 
-### 🛠️ Edit Post Functionality
-Users can edit their existing posts at any time with ease.
+👉 Edit Post Functionality: Provide users with the ability to edit the content of their posts at any time
 
-### 📱 Responsive UI with Bottom Bar
-Mobile-optimized layout and bottom navigation bar for a native app-like experience.
+👉 Responsive UI with Bottom Bar: A responsive UI with a bottom bar, enhancing the mobile app feel for seamless navigation
 
-### ⚡ React Query Integration
-Incorporate the React Query (Tanstack Query) data fetching library for, Auto caching to enhance performance, Parallel queries for efficient data retrieval, First-class Mutations, etc
+👉 React Query Integration: Incorporate the React Query (Tanstack Query) data fetching library for, Auto caching to enhance performance, Parallel queries for efficient data retrieval, First-class Mutations, etc
 
-### ☁️ Backend as a Service (BaaS) - Appwrite
-Appwrite: Utilize Appwrite as a Backend as a Service solution for streamlined backend development, offering features like authentication, database, file storage, and more
-and many more, including code architecture and reusability
+👉 Backend as a Service (BaaS) - Appwrite: Utilize Appwrite as a Backend as a Service solution for streamlined backend development, offering features like authentication, database, file storage, and more
+    and many more, including code architecture and reusability
